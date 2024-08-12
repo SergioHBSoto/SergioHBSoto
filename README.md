@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergioHBSoto
+- 👋 Hi, I’m @SergioHBSoto osea Sergio Hernandez Bautista.
 - 👀 I’m interested in ... Desarrollo web, Videojuegos, Redes Sociales, Musica,Tecnologia, Algunas Series, FUtbol, mi smartphone.
 - 🌱 I’m currently learning ... Desarrollo web, Javascript.
 - 💞️ I’m looking to collaborate on My proyect
