@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on My proyect
 - 📫 How to reach me ... My Redf Social. tl
 - 😄 Pronouns: ... Chetin.
-- ⚡ Fun fact: ... Nose
+- ⚡ Fun fact: ... Nose.
 
 <!---
 SergioHBSoto/SergioHBSoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
